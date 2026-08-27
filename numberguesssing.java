@@ -13,7 +13,7 @@ public class numberguesssing {
         int randomNumber = random.nextInt(min, max+1);
 
         System.out.println("Number guessing game");
-        System.out.print("Guess a number between 1-10 : ");
+        System.out.printf("Guess a number between %d-%d : ", min, max);
 
         do {
             System.out.print("Enter a guess: ");
