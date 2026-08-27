@@ -8,7 +8,9 @@ public class numberguesssing {
 
         int guess;
         int attempts = 0;
-        int randomNumber = random.nextInt(1, 11);
+        int min = 1;
+        int max = 100;
+        int randomNumber = random.nextInt(min, max+1);
 
         System.out.println("Number guessing game");
         System.out.print("Guess a number between 1-10 : ");
