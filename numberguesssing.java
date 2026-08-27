@@ -34,3 +34,6 @@ public class numberguesssing {
         sc.close();
     }
 }
+
+
+// test thingy does my contributions count now
