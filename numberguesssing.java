@@ -36,4 +36,4 @@ public class numberguesssing {
 }
 
 
-// test thingy does my contributions count now~ maybe it does not
+// test thingy does my contributions count now ~ i am not sure it does
