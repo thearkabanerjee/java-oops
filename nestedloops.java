@@ -9,6 +9,7 @@ public class nestedloops{
       for (int j = 0; j < 10; j++){
         System.out.print(j + " ");
       }
+      System.out.println(); // this makes it change the lines and without this the case is something different
     }
   }
 }
