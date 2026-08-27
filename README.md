@@ -1,1 +1,3 @@
-## this is a repo of me practicing OOPs in java
+## JAVA-OOPS
+
+this is a repo of me practicing OOPs in java
