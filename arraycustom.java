@@ -4,7 +4,10 @@ public class arraycustom {
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);
-        String[] foods = new String[3];
+        System.out.print("what is the length of the array you want ? : ");
+        int a = sc.nextInt();
+        sc.nextLine();
+        String[] foods = new String[a];
 
         for (int i = 0; i< foods.length; i++){
             System.out.print("enter a food: ");
