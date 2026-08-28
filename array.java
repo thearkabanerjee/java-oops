@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class array {
     public static void main(String[] args){
 
@@ -5,10 +7,13 @@ public class array {
         String[] fruits = {"apple", "orange", "banana", "coconut"};
         fruits[0] = "new-apple";
 
-        for (int i = 0; i < fruits.length; i++){
-            System.out.print(fruits[i]+ " ");
-            
+        Arrays.sort(fruits);
+        // Arrays.fill(fruits, "pineapple"); // replaces everything with pineapple
+
+        for (String fruit : fruits){
+        System.out.print(fruit + " ");
         }
         System.out.println();
     }
 }
+
