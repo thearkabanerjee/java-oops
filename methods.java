@@ -6,8 +6,12 @@ public class methods {
         Scanner sc = new Scanner(System.in);
         String name = sc.nextLine();
         int age = sc.nextInt();
+        sc.nextLine();
+        String firstname = sc.nextLine();
+        String lastname = sc.nextLine();
         for (int i = 3; i > 0; i--){
             happybirthday(name, age);
+            System.out.println(fullname(firstname, lastname));
         }
         sc.close();
     }
@@ -17,4 +21,9 @@ public class methods {
         System.out.printf("you are %d years old\n", age);
         System.out.println("happy birthday to you");
     }
+    public static String fullname (String first, String last){
+        return ("your fullname is " + first + " " + last);
+    }
+
+
 }
