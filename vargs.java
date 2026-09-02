@@ -5,8 +5,8 @@ public class vargs {
     }
     static int add(int... numbers){
         int sum = 0;
-        for (int number: numbers){
-            sum += number;
+        for (int i = 0; i < numbers.length; i++){
+            sum += numbers[i]; // even a normal loop works , no advanced loops only needed 
         }
         return sum; 
     }
