@@ -1,3 +1,6 @@
+// varargs -> variable arguments in java , any number of arguments can be passed in 
+
+
 public class vargs {
     public static void main(String[] args){
         // varargs = allow a method to accept a varying number of arguments
