@@ -8,9 +8,10 @@ public class vargs {
         for (int number: numbers){
             sum += number;
         }
-        return sum;
+        return sum; 
     }
 }
 
 
 // varargs is very important , used incase one needs to change up the number of arguments they want to put in
+// better than overloaded methods
