@@ -1,3 +1,5 @@
+package practicejava;
+
 public class logicaloperators {
     // there are a few logical operators -> && , || and !
 
