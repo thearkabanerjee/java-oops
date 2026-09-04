@@ -1,3 +1,4 @@
+package practicejava;
 public class elementarray {
     public static void main(String[] args){
 
