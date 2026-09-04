@@ -1,4 +1,4 @@
-
+package practicejava;
 public class happynewyearcounter{
 
   public static void main(String[] args)throws InterruptedException{
