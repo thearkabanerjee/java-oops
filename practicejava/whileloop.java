@@ -1,3 +1,6 @@
+
+package practicejava;
+
 import java.util.Scanner;
 
 public class whileloop{
