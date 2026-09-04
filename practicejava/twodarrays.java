@@ -1,3 +1,4 @@
+package practicejava;
 public class twodarrays {
     public static void main(String[] args){
         String[] fruits = {"apple", "orange", "banana"};
