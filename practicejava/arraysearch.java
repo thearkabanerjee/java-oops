@@ -1,3 +1,4 @@
+package practicejava;
 public class arraysearch {
     public static void main(String[] args){
         int[] numbers = {1, 9, 3, 4, 2, 8, 5, 42};
