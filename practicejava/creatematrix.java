@@ -1,3 +1,4 @@
+package practicejava;
 import java.util.*;
 
 public class creatematrix {
