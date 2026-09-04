@@ -1,3 +1,5 @@
+package practicejava;
+
 public class variablescope {
     static int x = 3; // class
 
