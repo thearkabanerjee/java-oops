@@ -1,3 +1,5 @@
+package practicejava;
+
 public class twodarray {
     public static void main(String[] args){
         String[][] groceries = {{"apple", "pinapple", "watermelon"}, {"potato", "onion", "carrot"}};
