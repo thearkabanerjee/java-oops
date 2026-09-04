@@ -1,5 +1,5 @@
 // varargs -> variable arguments in java , any number of arguments can be passed in 
-
+package practicejava;
 
 public class vargs {
     public static void main(String[] args){
