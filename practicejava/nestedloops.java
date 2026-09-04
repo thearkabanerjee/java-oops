@@ -1,4 +1,4 @@
-
+package practicejava;
 
 public class nestedloops{
   public static void main(String[] args){
