@@ -1,3 +1,4 @@
+package practicejava;
 import java.util.Arrays;
 
 public class array {
