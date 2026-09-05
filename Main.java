@@ -5,5 +5,10 @@ public class Main {
         cat.eat();
         dog.eat();
 
+        System.out.println(dog.lives);
+        System.out.println(cat.lives);
+
+
+        dog.speak();cat.speak();
     }
 }
