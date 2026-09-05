@@ -1,4 +1,4 @@
-package inheritancequestions;
+package inheritancequestions.question1;
 
 public class Person {
     String name;
