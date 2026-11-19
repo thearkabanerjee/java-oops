@@ -7,7 +7,7 @@ class Playlist {
     // WRITE YOUR CODE HERE
     this.title = p.title;
     this.songs = new String[p.songs.length];
-    for (int i = 0; p.songs.length; i++) {
+    for (int i = 0; i < p.songs.length; i++) {
       this.songs[i] = p.songs[i];
     }
   }
